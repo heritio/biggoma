@@ -108,7 +108,7 @@ td {
   height: 92vh;
 }
 .productcolor {
-  background-color: black !important;
+  background-color: rgb(192, 191, 191) !important;
   color: aliceblue !important;
 }
 .banner {
